@@ -1,0 +1,9 @@
+crash:
+  drop_threshold: 0.07
+
+model:
+  calibrate_method: none
+  decision_threshold: 0.2
+  cv_splits: 5
+  validation_frac: 0.2
+  random_state: 42
