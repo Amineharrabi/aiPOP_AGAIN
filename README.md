@@ -24,6 +24,11 @@ python run_pipeline.py
 ```
 
 Artifacts are saved under `outputs/` and `data/intermediate/`. Final deliverables:
+<img width="180" height="90" alt="2025-07" src="https://github.com/user-attachments/assets/a9cce175-8d99-4b06-996e-a1c1a1bcce35" />
+
+<img width="180" height="90" alt="2024-02" src="https://github.com/user-attachments/assets/2220162a-cbe9-4e72-9729-93cf7f9aa2c8" />
+
+
 - CSV: `outputs/predictions_latest.csv` (timestamp, features, labels, predicted probabilities)
 - PNG: `outputs/backtest_latest.png`
 - JSON: `outputs/run_latest.json` with shape {timestamp, crash_prob_1d, crash_prob_3d, crash_prob_7d, top_drivers, calibration}
@@ -34,7 +39,8 @@ You can create an optional `aion_ews_config.yaml` at the project root to overrid
 
 ```
 start_date: '2022-01-01'
-end_date: null
+end_date: null![Uploading 2025-07.png…]()
+
 resample: '6H'
 ai_tickers: [NVDA, MSFT, AMD, AVGO, GOOGL, META, TSLA, PLTR, SMCI, INTC]
 baseline_tickers: [QQQ, SPY]
