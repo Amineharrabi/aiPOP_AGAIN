@@ -2,6 +2,8 @@
 
 An autonomous research agent that collects free data (prices, Reddit, Google News RSS, Google Trends), builds 6-hour features, labels crash events for 1/3/7-day horizons, trains/calibrates models, and produces calibrated probabilities and backtest artifacts.
 
+## Watch the Youtube Video :
+https://www.youtube.com/watch?v=WbJNk43Xml4
 ## Quickstart
 
 1) Python 3.10+ recommended.
