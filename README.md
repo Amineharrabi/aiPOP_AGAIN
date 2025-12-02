@@ -4,6 +4,8 @@ An autonomous research agent that collects free data (prices, Reddit, Google New
 
 ## Watch the Youtube Video :
 https://www.youtube.com/watch?v=WbJNk43Xml4
+
+
 <img width="640" height="420" alt="Brillo(4)" src="https://github.com/user-attachments/assets/3e22f3ab-86cb-4143-bbf0-aad6da8d0aaf" />
 
 ## Quickstart
